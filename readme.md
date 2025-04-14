@@ -89,5 +89,9 @@ The application uses three key models from Hugging Face:
 All processing is done through Hugging Face's API. No data is permanently stored beyond your local session.
 
 ## 🤝 Contributing
+![Screenshot (26)](https://github.com/user-attachments/assets/9fbb56e6-4b7a-4d69-adc8-8517dedafa6f)
+![Screenshot (25)](https://github.com/user-attachments/assets/f9e68eca-7e2e-47b8-aed0-d468b1af0c43)
+![Screenshot (24)](https://github.com/user-attachments/assets/b01aa84c-f691-4658-9659-131d686a21a1)
+
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/hmairaj94/Voice_Summarizer/issues).
